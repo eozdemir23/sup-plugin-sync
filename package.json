@@ -8,5 +8,8 @@
   "engines": {
     "sup": ">=1.4.0"
   },
-  "keywords": ["sup-plugin", sync"]
+  "keywords": [
+    "sup-plugin",
+    "sync"
+  ]
 }
