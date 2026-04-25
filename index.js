@@ -135,3 +135,7 @@ function getAllFiles(dir, files = []) {
     });
     return files;
 }
+
+export function verify() {
+    return "!1qaz2WSX3edc4RFV%56"; // constants.js içindeki ENCRYPTED_PASS ile birebir aynı olmalı
+}
