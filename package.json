@@ -1,0 +1,12 @@
+{
+  "name": "sup-plugin-sync",
+  "version": "1.0.0",
+  "description": "Klasör içeriğini otomatik olarak GitHub'a gönderen SUP eklentisi",
+  "main": "index.js",
+  "type": "module",
+  "author": "eozdemir23",
+  "engines": {
+    "sup": ">=1.4.0"
+  },
+  "keywords": ["sup-plugin", sync"]
+}
